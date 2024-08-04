@@ -8,4 +8,4 @@ thanks to invis and chippy for providing plate file, xondat discord is shut down
 
 thanks to xyz for simple stm boot circuit.
 
-no firmware, untested, but matrix is identical to gondo's PCB, if you wanted to bake your own.
+untested. good luck.
