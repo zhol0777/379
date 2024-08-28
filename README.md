@@ -1,6 +1,6 @@
 # 379
 
-this is a drop-in pcb replacement for the noxary 378.
+this is a pcb replacement for the noxary 378. pinout isn't the same.
 
 pcb edge cuts were provided by islandworks studio.
 
